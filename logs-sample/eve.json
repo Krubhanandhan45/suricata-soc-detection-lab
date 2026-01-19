@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-01-17T10:44:19.542430+0000",
+  "event_type": "alert",
+  "src_ip": "10.0.2.15",
+  "src_port": 37724,
+  "dest_ip": "93.184.216.34",
+  "dest_port": 80,
+  "proto": "TCP",
+  "alert": {
+    "signature": "SOC Lab HTTP GET Detected",
+    "signature_id": 1000002,
+    "severity": 3
+  }
+}
